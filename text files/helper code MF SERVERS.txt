@@ -1,0 +1,7 @@
+enable
+conf t
+inter FA6/0
+IP HELPER-ADDRESS 192.168.1.20
+exit
+exit
+exit
